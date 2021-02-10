@@ -1,0 +1,1 @@
+# Desafio prático de recriar a interface da Netflix utilizando Html, CSS e Javascript, realizado para a plataforma [Digital Innovation One.](https://web.digitalinnovation.one/track/everis-fullstack-developer?tab=path)
